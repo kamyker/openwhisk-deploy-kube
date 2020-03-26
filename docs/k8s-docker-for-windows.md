@@ -88,6 +88,7 @@ Make sure you created your
 
 ```cmd
 cd openwhisk-deploy-kube
+kubectl create namespace openwhisk
 helm install owdev ./helm/openwhisk -n openwhisk -f mycluster.yaml
 ```
 
