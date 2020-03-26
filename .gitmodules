@@ -1,0 +1,3 @@
+[submodule "openwhisk-runtime-dotnet"]
+	path = openwhisk-runtime-dotnet
+	url = https://github.com/apache/openwhisk-runtime-dotnet.git
